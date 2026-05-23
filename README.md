@@ -53,6 +53,7 @@ Melihat notifikasi
 Menggunakan voucher
 
 ## 📂 Project Structure
+''' 
 mochimo/
 │
 ├── index.php → Halaman utama
@@ -92,6 +93,7 @@ mochimo/
 │   └── profile/
 │
 └── admin/upload/ → Upload gambar produk
+'''
 
 ## ⚙️ Installation
 ### Clone repository:
