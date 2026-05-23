@@ -95,7 +95,7 @@ mochimo/
 
 ## ⚙️ Installation
 ### Clone repository:
-git clone https://github.com/username/mochimo.git
+https://github.com/ajijahsidqia9090-cell/Web-Mochimo.git
 ### Pindahkan ke folder:
 C:/laragon/www/
 ### Buat database:
