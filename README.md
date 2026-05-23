@@ -1,2 +1,2 @@
-# Blog-Mochimo
+# Web-Mochimo
 Web Kelompok
