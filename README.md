@@ -53,35 +53,37 @@ Melihat notifikasi
 Menggunakan voucher
 
 ## 📂 Project Structure
-''' 
+
+```
 mochimo/
 │
-├── index.php → Halaman utama
+├── index.php                → Halaman utama
+│
 ├── auth/
-│   ├── login.php → Login user
-│   ├── register.php → Register user
-│   └── logout.php → Logout
+│   ├── login.php           → Login user
+│   ├── register.php        → Register user
+│   └── logout.php          → Logout
 │
 ├── customer/
-│   ├── dashboard.php → Halaman utama customer
-│   ├── cart.php → Keranjang
-│   ├── pesanan.php → Daftar pesanan
-│   ├── detail_pesanan.php → Detail pesanan
-│   ├── detail_produk.php → Detail produk
-│   ├── tracking_pesanan.php → Tracking
-│   ├── riwayat.php → Riwayat transaksi
-│   ├── notifikasi.php → Notifikasi
-│   └── bayar_qr.php → Pembayaran QRIS
+│   ├── dashboard.php       → Halaman utama customer
+│   ├── cart.php            → Keranjang
+│   ├── pesanan.php         → Daftar pesanan
+│   ├── detail_pesanan.php  → Detail pesanan
+│   ├── detail_produk.php   → Detail produk
+│   ├── tracking_pesanan.php→ Tracking pesanan
+│   ├── riwayat.php         → Riwayat transaksi
+│   ├── notifikasi.php      → Notifikasi
+│   └── bayar_qr.php        → Pembayaran QRIS
 │
 ├── admin/
-│   ├── dashboard.php → Dashboard admin
-│   ├── produk.php → Kelola produk
-│   ├── kategori.php → Kelola kategori
-│   ├── voucher.php → Kelola voucher
-│   └── pesanan.php → Kelola pesanan
+│   ├── dashboard.php       → Dashboard admin
+│   ├── produk.php          → Kelola produk
+│   ├── kategori.php        → Kelola kategori
+│   ├── voucher.php         → Kelola voucher
+│   └── pesanan.php         → Kelola pesanan
 │
 ├── config/
-│   └── koneksi.php → Koneksi database
+│   └── koneksi.php         → Koneksi database
 │
 ├── template/
 │   ├── header.php
@@ -92,8 +94,8 @@ mochimo/
 │   ├── img/
 │   └── profile/
 │
-└── admin/upload/ → Upload gambar produk
-'''
+└── admin/upload/           → Upload gambar produk
+```
 
 ## ⚙️ Installation
 ### Clone repository:
