@@ -12,8 +12,6 @@ Setiap pengguna memiliki fitur dan hak akses masing-masing untuk mengelola dan m
 
 ## 🎥 Demo Video Mochimo
 
-(Isi dengan link demo kamu jika ada)
-Contoh:
 https://youtu.be/nk_DcL6ffy4?si=rdcMEXlKytj9RVAh
 
 ## 🚀 Features
